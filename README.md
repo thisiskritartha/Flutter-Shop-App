@@ -13,13 +13,13 @@ Welcome to the Flutter Shop Application! This is a mobile shopping application b
 
 ## Installation
 1) Clone the Repository:
-https://github.com/thisiskritartha/Flutter-Shop-App
+``` git clone https://github.com/thisiskritartha/Flutter-Shop-App.git ```
 2) Navigate to the Project Directory:
-cd Flutter-Shop-App
+``` cd Flutter-Shop-App ```
 3) Install Dependencies:
-flutter pub get
+```flutter pub get```
 4) Run the Application:
-flutter run
+```flutter run```
 ### OR you can access the apk file through the following link:
 https://drive.google.com/drive/folders/1wfSI8LdPhSR9ZkdqvgFGosvg4bVcyvSZ?usp=sharing
 
@@ -29,6 +29,6 @@ https://drive.google.com/drive/folders/1wfSI8LdPhSR9ZkdqvgFGosvg4bVcyvSZ?usp=sha
 
 ## Dependencies
 - Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- fake_store_api: A fake REST API for testing and prototyping.
+- fake_store_api: A fake store api for fetching products.
 - Get - State management and navigation
 - http - HTTP requests
