@@ -1,6 +1,6 @@
 # Flutter Shop Application
 
-Welcome to the Flutter Shop Application! This is a mobile shopping application built using Flutter framework. It allows users to browse through a variety of products fetched using fake store api.
+Welcome to the Flutter Shop Application! This is a mobile shopping application built using Flutter framework and Fake store API. It allows users to browse through a variety of products fetched using fake store api.
 
 ## Features
 
